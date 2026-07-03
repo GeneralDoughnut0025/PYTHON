@@ -2,7 +2,7 @@
 # PYTHON
 This repository contains my Python projects, including data analysis, plots and simulations that are realted to my Engineering background.
 
-For a quick overview of my Python projects, please check: [Download the project preview document][python.pdf](https://github.com/user-attachments/files/29634987/python.pdf)
+For a quick overview of my Python projects, please check: [python.pdf](https://github.com/user-attachments/files/29634987/python.pdf)
 
 The work in this repository includes:
 - HEAT TRANSFER ON 1D OBJECT

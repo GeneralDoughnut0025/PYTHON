@@ -5,7 +5,8 @@ This repository contains my Python projects, including data analysis, plots and 
 For a quick overview of my Python projects, please check: [My Python Projects](python.pdf)
 
 The work in this repository includes:
-- HEAT TRANSFER SIMULATION ON A 1D OBJECT  : https://github.com/user-attachments/assets/6b435e86-a8d9-4a27-8ef0-fb7a4fed303d
+- HEAT TRANSFER SIMULATION ON A 1D OBJECT  :
+  This code simulates transient heat conduction in a 1D rod. Using a numerical finite-difference approach, it calculates how heat spreads from the hot ends into the cooler interior over time and visualizes the changing temperature profile as the system evolves. https://github.com/user-attachments/assets/6b435e86-a8d9-4a27-8ef0-fb7a4fed303d
 - HEAT TRANSFER SIMULATION ON A 2D OBJECT : https://github.com/user-attachments/assets/495ed1ef-1c95-4742-b6f2-d7eefcca2ae6
 - MASS-SPRING VIBRATION MODEL
 - DOUBLE PENDULUM SIMULATION : https://github.com/user-attachments/assets/be68598c-abf1-41fa-8da8-83543dca8355

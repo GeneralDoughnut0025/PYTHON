@@ -15,6 +15,5 @@ The work in this repository includes:
 - LONDON HOUSING DATA ANALYSIS
 - D2Q9 LATTICE-BOLTZMAN MODEL
 - BOOK SALES DATA ANALYSIS
-- ENGINE CRANKSHAFT SIMULATION
-  https://github.com/user-attachments/assets/4bb84c18-bc6e-4298-a7e8-aebbcc13ffb7
+- ENGINE CRANKSHAFT SIMULATION : https://github.com/user-attachments/assets/4bb84c18-bc6e-4298-a7e8-aebbcc13ffb7
 - INDUSTRIAL PRODUCTION PERFORMANCE DASHBOARD
